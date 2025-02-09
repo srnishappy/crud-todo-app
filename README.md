@@ -5,6 +5,7 @@
    npm install --save-dev vite
 3.พอติดตั้งเสร็จแล้ว ลองรันคำสั่งนี้อีกรอบ
    npm run dev
+   
 ถ้าเจอeror: 'nodemon' is not recognized as an internal or external command
 วิธีแก้ไข:
 1.เปิด terminal หรือ command prompt แล้วไปที่โฟลเดอร์ server ของโปรเจค (เช่น crud-todo-app-main/server).
